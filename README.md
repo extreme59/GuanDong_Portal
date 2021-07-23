@@ -1,4 +1,6 @@
 # GuanDong_Portal
+可以配合H大的padavan里的一键ONMP使用，需要手动配置php.int！
+
 基于 Myitmx 项目修改。可用于天翼校园网（广东已测试），</br>
 更改login.php中的wlancip为本校认证服务器IP即可！
 建议使用PHP7.0以上版本运行。
